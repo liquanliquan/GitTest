@@ -1,2 +1,5 @@
 add func1
+<<<<<<< HEAD
 add func2
+=======
+>>>>>>> 2fa47a6... test2文件add func1
